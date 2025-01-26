@@ -1,0 +1,29 @@
+body {
+        font-family:Crimson Text;
+            margin: 0;
+            padding: 0;
+            background-color: #bf5d08;
+    
+}
+main {
+            padding: 20px;
+        }
+        section p {
+            line-height: 1.6;
+        }
+         section p:first-of-type {
+            font-weight: bold;
+            color: #333;
+        }
+         header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        p {
+            font-size: 25px;
+        }
+        h2 {
+            font-size: 35px
+        }
